@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class swithcase_buku {
 	public static void main (String[] args) {
 		int buku;
-		System.out.println(" No.| Mata Pelajaran");
+		System.out.println(" No. | Mata Pelajaran");
 		System.out.println("--------------------------------");
 		System.out.println(" 01. | Bahasa Indonesia");
 		System.out.println(" 02. | Bahasa Inggris");
