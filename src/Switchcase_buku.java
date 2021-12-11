@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class swithcase_buku {
+public class switchcase_buku {
 	public static void main (String[] args) {
 		int buku;
 		System.out.println(" No. | Mata Pelajaran");
