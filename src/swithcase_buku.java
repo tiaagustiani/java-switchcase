@@ -12,7 +12,7 @@ public class swithcase_buku {
 		System.out.println(" 05. | Seni Budaya");
 		System.out.println("--------------------------------");
 		System.out.println("");
-		System.out.println("CARI BUKU");
+		System.out.println("[CARI BUKU]");
 		System.out.println("Untuk Menemukan Buku, Silahkan Input Nomer Buku Sesuai List Diatas : ");
 		
 		Scanner masukkan = new Scanner (System.in);
